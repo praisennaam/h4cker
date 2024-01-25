@@ -1,4 +1,4 @@
-# Building Your Own Cybersecurity Lab and Cyber Range
+# Building Your Own Cybersecurity Lab and Cyber Range my Copy
 
 The following are some tips and instructions on how you can build your own lab for penetration testing and to practice different defensive techniques helpful for incident response and digital forensics.
 
